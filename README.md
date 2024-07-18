@@ -12,3 +12,6 @@ Características principales:
   2.- Lista scrollable para manejar múltiples entradas.
   3.- Cálculo automático de la suma total.
   4.- Funcionalidad de eliminación interactiva.
+
+
+![Imagen de muestra](resurce/vista.png)
