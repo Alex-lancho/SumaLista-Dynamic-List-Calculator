@@ -13,5 +13,6 @@ Características principales:
   3.- Cálculo automático de la suma total.
   4.- Funcionalidad de eliminación interactiva.
 
+:::::::::::IMAGEN DE MUESTRA::::::::::::::::::::::
 
 ![Imagen de muestra](resurce/vista.png)
